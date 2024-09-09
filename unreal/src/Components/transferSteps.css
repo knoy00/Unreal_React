@@ -1,0 +1,13 @@
+.transferContainer{
+    background-color: rgb(209, 66, 66);
+    height: 85vh;
+    width: 100%;   
+    padding: 15px;
+    margin-top: 50px;
+}
+
+.page{
+    display: flex;
+    margin-left: 10%;
+}
+
